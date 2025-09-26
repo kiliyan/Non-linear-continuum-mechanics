@@ -13,7 +13,7 @@ add Plots Colors Measures
 
 precompile
 
-# now from within the repl do the following. note : replace filename with the one of the four files inside the folder
+# Now from within the repl do the following. note : replace filename with the one of the four files inside the folder
 
 include("filename.jl")
 
