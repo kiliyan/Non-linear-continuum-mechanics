@@ -1,6 +1,3 @@
-# Non-linear-continuum-mechanics
-Code for homework problems
-
 Steps to run :
 
 julia
